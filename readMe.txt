@@ -1,0 +1,2 @@
+mohon maaf saya tidak bisa menyelesaikan tugas akhir dengan sepenuhnya karena masih kurangnya pemahaman saya tentang bahasa golang.
+terima kasih untuk materi pembelajarannya yang telah membuka wawasan baru bagi saya tentang pemrograman.
